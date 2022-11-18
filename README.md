@@ -1,5 +1,11 @@
 # remix-vite css bug
 
+## fixed on 0.2.4
+
+https://github.com/sudomf/remix-vite/issues/10#issuecomment-1319045208
+
+---
+
 Steps to reproduce
 
 ```

@@ -3,10 +3,11 @@
   "sideEffects": false,
   "scripts": {
     "build": "remix build",
-    "dev": "npx remix-vite",
+    "dev": "remix-vite",
     "start": "remix-serve build"
   },
   "dependencies": {
+    "remix-vite": "0.2.4",
     "@remix-run/node": "^1.7.5",
     "@remix-run/react": "^1.7.5",
     "@remix-run/serve": "^1.7.5",
